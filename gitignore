@@ -1,0 +1,19 @@
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+
+# IDE configs
+.idea/
+.vscode/
+
+# MetaTrader compiled files (اختیاری)
+*.ex4
+*.ex5
